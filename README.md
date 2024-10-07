@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm a Robotics Professor at West Virginia University. I'm currently researching robotic inspection. I'm an instructor of Industrial Robotics.
 
 <!--
 **guilhermeaspereira/guilhermeaspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
